@@ -1,2 +1,2 @@
 # Bulk-Email
-Bulk Email Sofware using Excel VBA and Outlook
+Bulk Email Software using Excel VBA and Outlook
