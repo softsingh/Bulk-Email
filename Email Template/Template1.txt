@@ -1,0 +1,16 @@
+To
+	The Principal
+	College_Addr
+
+Sub: 	Email_Subject
+
+Dear Sir,
+	
+	This is Template-1
+
+
+
+Yours Faithfully
+
+
+Softsingh
