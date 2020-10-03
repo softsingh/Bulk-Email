@@ -1,16 +1,20 @@
+Template-2
+
 To
-	The Principal
+	Contact_Person
 	College_Addr
 
 Sub: 	Email_Subject
 
 Dear Sir,
 	
-	This is Template-2
+	Attached here is the copy of document as per subject cited for your information and further necessary action at your end.
 
 
 
 Yours Faithfully
 
 
-Softsingh
+Address Line-1
+Address Line-2,
+Address Line-3
