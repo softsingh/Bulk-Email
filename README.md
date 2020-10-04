@@ -1,3 +1,3 @@
 # ਥੋਕ-ਇਮੇਲ
 
-Bulk Email Software using Excel VBA and Outlook
+ਥੋਕ-ਈਮੇਲ ਐਕਸਲ ਵੀਬੀਏ (Excel VBA) ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ ਸੌਫਟਵੇਅਰ ਹੈ ਜਿਸ ਨਾਲ ਅਸੀਂ ਬਹੁਤ ਜਣਿਆ ਨੂੰ ਇੱਕੋ ਵਾਰੀ 
