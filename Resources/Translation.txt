@@ -1,0 +1,8 @@
+ਡਾਟਾਬੇਸ ਜਾਂਚ
+
+ਥੋਕ ਇਮੇਲ ਲੇਖਾ (Bulk Email Log)
+ChrW(&HA25) & ChrW(&HA4B) & ChrW(&HA15) & ChrW(&H20) & ChrW(&HA07) & ChrW(&HA2E) & ChrW(&HA47) & ChrW(&HA32) & ChrW(&H20) & ChrW(&HA32) & ChrW(&HA47) & ChrW(&HA16) & ChrW(&HA3E)
+
+
+ਇਮੇਲਾਂ ਬਣਾਉਣਿਆਂ ਚਾਲੂ 
+ChrW(&HA07) & ChrW(&HA2E) & ChrW(&HA47) & ChrW(&HA32) & ChrW(&HA3E) & ChrW(&HA02) & ChrW(&H20) & ChrW(&HA2C) & ChrW(&HA23) & ChrW(&HA3E) & ChrW(&HA09) & ChrW(&HA23) & ChrW(&HA3F) & ChrW(&HA06) & ChrW(&HA02) & ChrW(&H20) & ChrW(&HA1A) & ChrW(&HA3E) & ChrW(&HA32) & ChrW(&HA42)
