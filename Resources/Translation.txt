@@ -1,8 +1,11 @@
-ਡਾਟਾਬੇਸ ਜਾਂਚ
+ਗਲਤ ਨੱਥੀ (Invalid Attachment) :
+StrInvalidAttachment = ChrW(&HA17) & ChrW(&HA32) & ChrW(&HA24) & ChrW(&H20) & ChrW(&HA28) & ChrW(&HA71) & ChrW(&HA25) & ChrW(&HA40) & " (Invalid Attachment)"
 
-ਥੋਕ ਇਮੇਲ ਲੇਖਾ (Bulk Email Log)
-ChrW(&HA25) & ChrW(&HA4B) & ChrW(&HA15) & ChrW(&H20) & ChrW(&HA07) & ChrW(&HA2E) & ChrW(&HA47) & ChrW(&HA32) & ChrW(&H20) & ChrW(&HA32) & ChrW(&HA47) & ChrW(&HA16) & ChrW(&HA3E)
+ਪੰਗਤ (Row)
+StrRow = ChrW(&HA2A) & ChrW(&HA70) & ChrW(&HA17) & ChrW(&HA24) & " (Row)"
 
+ਗਲਤ ਰਾਹ (Invalid Path) :
+StrInvalidPath = ChrW(&HA17) & ChrW(&HA32) & ChrW(&HA24) & ChrW(&H20) & ChrW(&HA30) & ChrW(&HA3E) & ChrW(&HA39) & " (Invalid Path)"
 
-ਇਮੇਲਾਂ ਬਣਾਉਣਿਆਂ ਚਾਲੂ 
-ChrW(&HA07) & ChrW(&HA2E) & ChrW(&HA47) & ChrW(&HA32) & ChrW(&HA3E) & ChrW(&HA02) & ChrW(&H20) & ChrW(&HA2C) & ChrW(&HA23) & ChrW(&HA3E) & ChrW(&HA09) & ChrW(&HA23) & ChrW(&HA3F) & ChrW(&HA06) & ChrW(&HA02) & ChrW(&H20) & ChrW(&HA1A) & ChrW(&HA3E) & ChrW(&HA32) & ChrW(&HA42)
+.txt ਜਾਂ  . html (.txt or .html)
+StrTxtOrHtml = ChrW(&H2E) & ChrW(&H74) & ChrW(&H78) & ChrW(&H74) & ChrW(&H20) & ChrW(&HA1C) & ChrW(&HA3E) & ChrW(&HA02) & ChrW(&H20) & ChrW(&H20) & ChrW(&H2E) & ChrW(&H20) & ChrW(&H68) & ChrW(&H74) & ChrW(&H6D) & ChrW(&H6C) & " (.txt or .html)"
