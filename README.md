@@ -21,4 +21,4 @@ https://myaccount.google.com/lesssecureapps
 
 ਆਉਟਲੂਕ ਨੂੰ ਚਾਲੂ ਕਰੋ । ਜੇਕਰ ਤੁਸੀਂ ਇਸ ਨੂੰ ਪਹਿਲਾਂ ਨਹੀਂ ਚਲਾਇਆ ਤਾਂ ਆਉਟਲੂਕ ਸਟਾਰਟਅਪ ਵਿਜ਼ਰਡ (Startup Wizard) ਆਪਣੇ ਆਪ ਚਾਲੂ ਹੋ ਜਾਏਗਾ । **ਨੈਕਸਟ** ਦੱਬਣ ਤੇ ਤੁਹਾਨੂੰ ਈਮੇਲ ਸੈਟਅਪ ਵਾਸਤੇ ਪੁੱਛਿਆ ਜਾਵੇਗਾ, ਫਿਰ **ਯੈੱਸ** ਦੱਬੋ ਅਤੇ **੨ ਪੋਇੰਟ** ਤੇ ਜਾਓ 
 
-![LessSecureApps](/../master/Resources/Less_Secure_Apps.png?raw=true "LessSecureApps")
+![Account Settings 1](/../master/Resources/Account_Settings_1.png?raw=true "Account Settings 1")
