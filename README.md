@@ -25,3 +25,11 @@ https://myaccount.google.com/lesssecureapps
 ੨. ਹੁਣ **ਮੈਨੂਆਲੀ ਕੰਫ਼ਿਗਰ....** ਵਾਲੇ ਡੱਬੇ ਤੇ ਠੀਕਾ ਲਗਾਓ । 
 
 ![Add_New_Email_Account_1](/../master/Resources/Add_New_Email_Account_1.png?raw=true "Add New Email Account 1")
+
+੩. ਚੂਜ਼ ਈਮੇਲ ਸਰਵਿਸ ਵਾਲੇ ਡਾਇਲੋਗ ਬੋਕਸ ਤੇ **ਇੰਟਰਨੈਟ ਈਮੇਲ** ਚੁਣੋ ਅਤੇ ਨੈਕਸਟ ਬਟਨ ਨੂੰ ਨੱਪੋ ।
+
+![Choose_Email_Service](/../master/Resources/Choose_Email_Service.png?raw=true "Choose Email Service")
+
+੪. ਇੰਟਰਨੈਟ ਈਮੇਲ ਸੈੱਟਿੰਗ ਵਾਲੇ ਡਾਇਲੋਗ ਬੋਕਸ ਚ ਆਪਣਾ ਨਾਮ, ਈਮੇਲ ਅੱਡਰੈਸ, ਸਰਵਰ ਜਾਣਕਾਰੀ (ਜੀਮੇਲ ਵਾਸਤੇ ਫੋਟੋ ਵਿੱਚ ਦਿੱਤੀ ਹੋਈ ਜਾਣਕਾਰੀ ਦੀ ਨਕਲ ਕਰੋ), ਈਮੇਲ ਦਾ ਯੂਜ਼ਰ ਨੇਮ ਅਤੇ ਪਾਸਵਰਡ ਭਰੋ 
+
+![Add_New_Email_Account_2](/../master/Resources/Add_New_Email_Account_2.png?raw=true "Add New Email Account 2")
