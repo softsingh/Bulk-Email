@@ -38,7 +38,7 @@ https://myaccount.google.com/lesssecureapps
 
 ![Outgoing_Server](/../master/Resources/Outgoing_Server.png?raw=true "Outgoing Server")
 
-੬. **ਐਡਵਾਂਸਡ ਟੈਬ** ਤੇ ਜਾਂ ਕੇ ਹੇਠਲੀ ਫੋਟੋ ਵਿੱਚ ਦਿੱਤੀ ਹੋਈ ਜਾਣਕਾਰੀ ਦੀ ਨਕਲ ਕਰੋ ਅਤੇ ਔਕੇ ਬਟਨ ਨੂੰ ਨੱਪੋ।  
+੬. **ਐਡਵਾਂਸਡ** ਟੈਬ ਤੇ ਜਾਂ ਕੇ ਹੇਠਲੀ ਫੋਟੋ ਵਿੱਚ ਦਿੱਤੀ ਹੋਈ ਜਾਣਕਾਰੀ ਦੀ ਨਕਲ ਕਰੋ ਅਤੇ ਔਕੇ ਬਟਨ ਨੂੰ ਨੱਪੋ।  
 
 ![Advanced](/../master/Resources/Advanced.png?raw=true "Advanced")
 
@@ -46,6 +46,6 @@ https://myaccount.google.com/lesssecureapps
 
 ![Test_Account_Settings](/../master/Resources/Test_Account_Settings.png?raw=true "Test Account Settings")
 
-੮. ਮੁਬਾਰਕਾਂ ! ਆਉਟਲੂਕ ਸੈਟਅਪ ਪੂਰਾ ਹੋ ਗਿਆ ।
+੮. ਮੁਬਾਰਕਾਂ! ਆਉਟਲੂਕ ਸੈਟਅਪ ਪੂਰਾ ਹੋ ਗਿਆ । ਫਿਨਿਸ਼ ਬਟਨ ਨੂੰ ਨੱਪੋ ।
 
 ![Congratulations](/../master/Resources/Congratulations.png?raw=true "Congratulations")
