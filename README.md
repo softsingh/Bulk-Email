@@ -50,3 +50,8 @@ https://myaccount.google.com/lesssecureapps
 ੮. ਮੁਬਾਰਕਾਂ ! ਆਉਟਲੂਕ ਸੈਟਅਪ ਪੂਰਾ ਹੋ ਗਿਆ । ਫਿਨਿਸ਼ ਬਟਨ ਨੂੰ ਨੱਪੋ ।
 
 ![Congratulations](/../master/Resources/Congratulations.png?raw=true "Congratulations")
+
+### ਜਰੂਰੀ ਬੇਨਤੀ
+੧. ਮੈਂ ਆਪਣੀ ਆਉਟਲੂਕ ਨੂੰ ਆਫ਼ਲਾਈਨ ਮੋਡ ਵਿੱਚ ਰੱਖਿਆ ਹੋਇਆ ਹੈ ਤਾਂ ਜੋ ਇਸਦੀ ਸਿਰਫ਼ ਆਉਟਗੋਇੰਗ ਈਮੇਲਾਂ ਵਾਸਤੇ ਵਰਤੋਂ ਕੀਤੀ ਜਾਏ । ਨਹੀਂ ਤਾਂ ਇੰਨਬੋਕਸ ਵਾਲਿਆਂ ਸਾਰੀਆਂ ਮੇਲਾਂ ਵੀ ਲੋਕਲ ਕੰਪਿਊਟਰ ਵਿੱਚ ਆ ਕੇ ਸੇਵ ਹੋ ਜਾਂਦੀਆਂ ਹਨ ਤੇ ਬਹੁਤ ਸਾਰੀ ਜਗ੍ਹਾ ਮਾਲ ਲੈਂਦਿਆਂ ਹਨ । ਜੇਕਰ ਤੁਸੀਂ ਵੀ ਆਫ਼ਲਾਈਨ ਮੋਡ ਨੂੰ ਸੈਟ ਕਰਣਾਂ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ **ਫ਼ਾਈਲ => ਵਰਕ ਆਫ਼ਲਾਈਨ** ਤੇ ਠਿਕਾ ਲਗਾਓ । 
+
+![File_Work_Offline](/../master/Resources/File_Work_Offline.png?raw=true "File_Work_Offline")
