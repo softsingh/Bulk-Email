@@ -20,13 +20,14 @@ https://myaccount.google.com/lesssecureapps
 ## ਆਉਟਲੂਕ ਸੈਟਅਪ (Outlook Setup)
 
 ੧. ਆਉਟਲੂਕ ਨੂੰ ਚਾਲੂ ਕਰੋ । ਜੇਕਰ ਤੁਸੀਂ ਇਸ ਨੂੰ ਪਹਿਲਾਂ ਨਹੀਂ ਚਲਾਇਆ ਤਾਂ ਆਉਟਲੂਕ ਸਟਾਰਟਅਪ ਵਿਜ਼ਰਡ (Startup Wizard) ਆਪਣੇ ਆਪ ਚਾਲੂ ਹੋ ਜਾਏਗਾ । **ਨੈਕਸਟ** ਦੱਬਣ ਤੇ ਤੁਹਾਨੂੰ ਈਮੇਲ ਸੈਟਅਪ ਵਾਸਤੇ ਪੁੱਛਿਆ ਜਾਵੇਗਾ, ਫਿਰ **ਯੈੱਸ** ਦੱਬੋ ਅਤੇ **ਦੂਜੇ ਪੋਇੰਟ** ਤੇ ਜਾਓ ।
-    ਜੇਕਰ ਤੁਸੀਂ ਇਸ ਨੂੰ ਪਹਿਲਾਂ ਚਲਾਇਆ ਹੋਇਆ ਹੈ ਤਾਂ **ਟੂਲਸ => ਅਕਾਊਂਟ ਸੇਟਿੰਗਸ => ਈਮੇਲ => ਨਿਉ** ਤੇ ਜਾਓ 
+
+   ਜੇਕਰ ਤੁਸੀਂ ਇਸ ਨੂੰ ਪਹਿਲਾਂ ਚਲਾਇਆ ਹੋਇਆ ਹੈ ਤਾਂ **ਟੂਲਸ => ਅਕਾਊਂਟ ਸੇਟਿੰਗਸ => ਈਮੇਲ => ਨਿਉ** ਤੇ ਜਾਓ 
 
 ੨. ਹੁਣ **ਮੈਨੂਆਲੀ ਕੰਫ਼ਿਗਰ....** ਵਾਲੇ ਡੱਬੇ ਤੇ ਠੀਕਾ ਲਗਾਓ । 
 
 ![Add_New_Email_Account_1](/../master/Resources/Add_New_Email_Account_1.png?raw=true "Add New Email Account 1")
 
-੩. ਚੂਜ਼ ਈਮੇਲ ਸਰਵਿਸ ਵਾਲੇ ਡਾਇਲੋਗ ਬੋਕਸ ਤੇ **ਇੰਟਰਨੈਟ ਈਮੇਲ** ਚੁਣੋ ਅਤੇ ਨੈਕਸਟ ਬਟਨ ਨੂੰ ਨੱਪੋ ।
+੩. ਚੂਜ਼ ਈਮੇਲ ਸਰਵਿਸ ਵਾਲੇ ਡਾਇਲੋਗ ਬੋਕਸ ਤੇ **ਇੰਟਰਨੈਟ ਈਮੇਲ** ਵਾਲਾ ਗੋਲਾ ਚੁਣੋ ਅਤੇ ਨੈਕਸਟ ਬਟਨ ਨੂੰ ਨੱਪੋ ।
 
 ![Choose_Email_Service](/../master/Resources/Choose_Email_Service.png?raw=true "Choose Email Service")
 
@@ -46,6 +47,6 @@ https://myaccount.google.com/lesssecureapps
 
 ![Test_Account_Settings](/../master/Resources/Test_Account_Settings.png?raw=true "Test Account Settings")
 
-੮. ਮੁਬਾਰਕਾਂ! ਆਉਟਲੂਕ ਸੈਟਅਪ ਪੂਰਾ ਹੋ ਗਿਆ । ਫਿਨਿਸ਼ ਬਟਨ ਨੂੰ ਨੱਪੋ ।
+੮. ਮੁਬਾਰਕਾਂ ! ਆਉਟਲੂਕ ਸੈਟਅਪ ਪੂਰਾ ਹੋ ਗਿਆ । ਫਿਨਿਸ਼ ਬਟਨ ਨੂੰ ਨੱਪੋ ।
 
 ![Congratulations](/../master/Resources/Congratulations.png?raw=true "Congratulations")
