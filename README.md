@@ -30,6 +30,22 @@ https://myaccount.google.com/lesssecureapps
 
 ![Choose_Email_Service](/../master/Resources/Choose_Email_Service.png?raw=true "Choose Email Service")
 
-੪. ਇੰਟਰਨੈਟ ਈਮੇਲ ਸੈੱਟਿੰਗ ਵਾਲੇ ਡਾਇਲੋਗ ਬੋਕਸ ਚ ਆਪਣਾ ਨਾਮ, ਈਮੇਲ ਅੱਡਰੈਸ, ਸਰਵਰ ਜਾਣਕਾਰੀ (ਜੀਮੇਲ ਵਾਸਤੇ ਫੋਟੋ ਵਿੱਚ ਦਿੱਤੀ ਹੋਈ ਜਾਣਕਾਰੀ ਦੀ ਨਕਲ ਕਰੋ), ਈਮੇਲ ਦਾ ਯੂਜ਼ਰ ਨੇਮ ਅਤੇ ਪਾਸਵਰਡ ਭਰੋ 
+੪. ਇੰਟਰਨੈਟ ਈਮੇਲ ਸੈੱਟਿੰਗ ਵਾਲੇ ਡਾਇਲੋਗ ਬੋਕਸ ਚ ਆਪਣਾ ਨਾਮ, ਈਮੇਲ ਅੱਡਰੈਸ, ਸਰਵਰ ਜਾਣਕਾਰੀ (ਜੀਮੇਲ ਵਾਸਤੇ ਫੋਟੋ ਵਿੱਚ ਦਿੱਤੀ ਹੋਈ ਜਾਣਕਾਰੀ ਦੀ ਨਕਲ ਕਰੋ), ਈਮੇਲ ਦਾ ਯੂਜ਼ਰ ਨੇਮ ਅਤੇ ਪਾਸਵਰਡ ਭਰੋ । ਰਿਮੈਮਬਰ ਪਾਸਵਰਡ ਵਾਲੇ ਡੱਬੇ ਤੇ ਠਿਕਾ ਲਗਾਓ । 
 
 ![Add_New_Email_Account_2](/../master/Resources/Add_New_Email_Account_2.png?raw=true "Add New Email Account 2")
+
+੫. ਮੋਰ ਸੈਟਿੰਗਸ ਨੂੰ ਨੱਪੋ । ਆਉਟਗੋਇੰਗ ਸਰਵਰ ਟੈਬ ਤੇ ਜਾਂ ਕੇ ਮਾਈ ਆਉਟਗੋਇੰਗ ਸਰਵਰ .......... ਵਾਲੇ ਡੱਬੇ ਤੇ ਠਿਕਾ ਲਓ ਅਤੇ ਯੂਜ ਸੇਮ ਸੈਟਿੰਗਸ .......... ਵਾਲੇ ਗੋਲੇ ਨੂੰ ਚੁਣੋ ।  
+
+![Outgoing_Server](/../master/Resources/Outgoing_Server.png?raw=true "Outgoing Server")
+
+੬. **ਐਡਵਾਂਸਡ ਟੈਬ** ਤੇ ਜਾਂ ਕੇ ਹੇਠਲੀ ਫੋਟੋ ਵਿੱਚ ਦਿੱਤੀ ਹੋਈ ਜਾਣਕਾਰੀ ਦੀ ਨਕਲ ਕਰੋ ਅਤੇ ਔਕੇ ਬਟਨ ਨੂੰ ਨੱਪੋ।  
+
+![Advanced](/../master/Resources/Advanced.png?raw=true "Advanced")
+
+੭. **ਟੈਸਟ ਅਕਾਊਂਟ ਸੇਟਿੰਗਸ** ਬਟਨ ਨੂੰ ਨੱਪੋ । ਜੇਕਰ ਸਭ ਠੀਕ ਠਾਕ ਹੋਇਆ ਤਾਂ ਸਾਰੇ ਟੈਸਟ ਸਫਲਤਾਪੂਰਕ ਮੁਕੰਮਲ ਹੋਏ (Congratulations! All tests completed successfully) ਮੈਸੇਜ ਆਏਗਾ । ਕਲੋਜ਼ ਬਟਨ ਨੂੰ ਨੱਪੋ । 
+
+![Test_Account_Settings](/../master/Resources/Test_Account_Settings.png?raw=true "Test Account Settings")
+
+੮. ਮੁਬਾਰਕਾਂ ! ਆਉਟਲੂਕ ਸੈਟਅਪ ਪੂਰਾ ਹੋ ਗਿਆ ।
+
+![Congratulations](/../master/Resources/Congratulations.png?raw=true "Congratulations")
