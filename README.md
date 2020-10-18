@@ -56,10 +56,15 @@ https://myaccount.google.com/lesssecureapps
 ![Congratulations](/../master/Resources/Congratulations.png?raw=true "Congratulations")
 
 ### ਆਉਟਲੂਕ ਦੇ ਜਰੀਏ ਈਮੇਲ ਕਿਵੇ ਭੇਜੀਏ
+੧. ਆਉਟਲੂਕ ਨੂੰ ਖੋਲ ਕੇ ਨਿਉ ਮੇਲ ਮੈਸੇਜ ਨੂੰ ਨੱਪੋ । 
 
+![New_Mail_Message](/../master/Resources/New_Mail_Message.png?raw=true "New Mail Message")
 
+੨. ਈਮੇਲ ਬਣਾਓ ਅਤੇ **ਸੈਂਡ** ਬਟਨ ਨੱਪੋ ।
 
-### ਜਰੂਰੀ ਬੇਨਤੀ
-੧. ਮੈਂ ਆਪਣੀ ਆਉਟਲੂਕ ਨੂੰ ਆਫ਼ਲਾਈਨ ਮੋਡ ਵਿੱਚ ਰੱਖਿਆ ਹੋਇਆ ਹੈ ਤਾਂ ਜੋ ਇਸਦੀ ਸਿਰਫ਼ ਆਉਟਗੋਇੰਗ ਈਮੇਲਾਂ ਵਾਸਤੇ ਵਰਤੋਂ ਕੀਤੀ ਜਾਏ । ਨਹੀਂ ਤਾਂ ਇੰਨਬੋਕਸ ਵਾਲਿਆਂ ਸਾਰੀਆਂ ਮੇਲਾਂ ਵੀ ਲੋਕਲ ਕੰਪਿਊਟਰ ਵਿੱਚ ਆ ਕੇ ਸੇਵ ਹੋ ਜਾਂਦੀਆਂ ਹਨ ਤੇ ਬਹੁਤ ਸਾਰੀ ਜਗ੍ਹਾ ਮਾਲ ਲੈਂਦਿਆਂ ਹਨ । ਜੇਕਰ ਤੁਸੀਂ ਵੀ ਆਫ਼ਲਾਈਨ ਮੋਡ ਨੂੰ ਸੈਟ ਕਰਣਾਂ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ **ਫ਼ਾਈਲ => ਵਰਕ ਆਫ਼ਲਾਈਨ** ਤੇ ਠਿਕਾ ਲਗਾਓ । 
+![Compose_Email](/../master/Resources/Compose_Email.png?raw=true "Compose Email")
 
-![File_Work_Offline](/../master/Resources/File_Work_Offline.png?raw=true "File_Work_Offline")
+੩. ਤੁਹਾਡੀ ਈਮੇਲ ਆਉਟਬਾਕਸ ਵਿੱਚ ਆ ਜਾਏਗੀ । ਜੇਕਰ ਤੁਸੀਂ **ਵਰਕ ਔਫਲਾਈਨ** ਚਾਲੂ ਕੀਤਾ ਹੈ ਤਾਂ ਤੁਹਾਨੂੰ ਉਚੇਚਾ **ਸੈਂਡ ਆਲ** ਕਰਨਾ ਪਵੇਗਾ । ਨਹੀਂ ਤਾਂ ਈਮੇਲ ਆਪਣੇ ਆਪ ਆਉਟਬਾਕਸ ਚੋਂ ਚਲੀ ਜਾਏਗੀ ।
+
+![Send_All](/../master/Resources/Send_All.png?raw=true "Send All")
+
