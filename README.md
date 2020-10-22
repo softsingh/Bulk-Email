@@ -77,4 +77,10 @@ https://myaccount.google.com/lesssecureapps
 ## ਥੋਕ ਈਮੇਲ ਚਾਲੂ ਕਰੋ
 **ਥੋਕ ਇਮੇਲ (Bulk Email).xlsm** ਫ਼ਾਈਲ ਖੋਲੋ।
 
-**Security Warning** Macros have been disabled ਦੇ ਨੇੜੇ **ਔਪਸ਼ਨਸ ਬਟਨ** ਨੂੰ ਨੱਪੋ, ਏਨੇਬਲ ਦਿਸ ਕੋਨਟੇਂਟ ਵਾਲੇ ਗੋਲੇ ਨੂੰ ਚੁਣੋ ਅਤੇ ਔਕੇ ਬਟਨ ਨੂੰ ਨੱਪੋ ।
+**Security Warning** Macros have been disabled ਦੇ ਨੇੜੇ **ਔਪਸ਼ਨਸ ਬਟਨ** ਨੂੰ ਨੱਪੋ, ਏਨੇਬਲ ਦਿਸ ਕੋਨਟੇਂਟ ਵਾਲੇ ਗੋਲੇ ਨੂੰ ਚੁਣੋ ਅਤੇ ਔਕੇ ਬਟਨ ਨੂੰ ਨੱਪੋ । 
+
+ਡੇਟਾਬੇਸ ਸ਼ੀਟ ਤੇ ਜਾਓ । ਇਸ ਵਿੱਚ ਤੁਹਾਨੂੰ Email_To, Email_CC, Email_BCC, Email_Subject, Email_Attachment, Email_Template, College_Addr ਅਤੇ Contact_Person ਨਾਮ ਦੇ ਕੋਲਮ ਮਿਲਣਗੇ । ਇਸ ਵਿੱਚੋਂ Email_To, Email_Subject ਅਤੇ Email_Template ਜਰੂਰੀ ਹਨ; ਇਹਨਾਂ ਵਿੱਚੋਂ ਜੇਕਰ ਇੱਕ ਵੀ ਕੋਲਮ ਨਹੀਂ ਹੋਇਆ ਤਾਂ ਇਹ ਸੌਫਟਵੇਅਰ ਕੰਮ ਨਹੀਂ ਨਹੀਂ ਕਰੇਗਾ ਅਤੇ ਗਲਤੀ ਦਿਖਾਏਗਾ । 
+
+ਜਿਨਿਆ ਪੰਗਤਾਂ ਵਿੱਚ ਡਾਟਾ ਹੋਵੇਗਾ, ਓਨੀਆਂ ਹੀ ਵੱਖੋ ਵੱਖ ਈਮੇਲਾਂ ਬਣ ਸਕਦਿਆਂ ਹਨ । ਜਿਵੇਂ ਕੀ ਨਮੂਨਾ ਡਾਟਾਬੇਸ ਵਿੱਚ ੪ ਪੰਗਤਾਂ ਹਨ (੨ - ੫) ਇਸਲਈ ੪ ਵੱਖੋ ਵੱਖ ਈਮੇਲਾਂ ਬਣਨ ਗੀਆਂ
+
+ਥੋਕ ਈਮੇਲ ਵਾਲੇ ਵੱਡੇ ਬਟਨ ਨੂੰ ਨੱਪੋ । ਥੋਕ ਈਮੇਲ ਡਾਇਲੋਗ ਬਾਕਸ ਖੁੱਲ ਜਾਏਗਾ । 
