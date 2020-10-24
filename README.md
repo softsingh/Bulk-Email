@@ -81,6 +81,14 @@ https://myaccount.google.com/lesssecureapps
 
 ਡੇਟਾਬੇਸ ਸ਼ੀਟ ਤੇ ਜਾਓ । ਇਸ ਵਿੱਚ ਤੁਹਾਨੂੰ Email_To, Email_CC, Email_BCC, Email_Subject, Email_Attachment, Email_Template, College_Addr ਅਤੇ Contact_Person ਨਾਮ ਦੇ ਕੋਲਮ ਮਿਲਣਗੇ । ਇਹਨਾਂ ਵਿੱਚੋਂ Email_To, Email_Subject ਅਤੇ Email_Template ਤਿੰਨੋਂ ਜਰੂਰੀ ਕੋਲਮ ਹਨ ਅਤੇ ਕਿਸੇ ਇੱਕ ਦੀ ਵੀ ਅਣਹੋਂਦ ਨਾਲ ਇਹ ਸੌਫਟਵੇਅਰ ਗਲਤੀ ਦਿਖਾਏਗਾ ।
 
-ਜਿਨਿਆ ਪੰਗਤਾਂ ਵਿੱਚ ਡਾਟਾ ਹੋਵੇਗਾ, ਓਨੀਆਂ ਹੀ ਵੱਖੋ ਵੱਖ ਈਮੇਲਾਂ ਬਣ ਸਕਦਿਆਂ ਹਨ । ਜਿਵੇਂ ਕੀ ਨਮੂਨਾ ਡਾਟਾਬੇਸ ਵਿੱਚ ੪ ਪੰਗਤਾਂ ਹਨ (੨ - ੫) ਇਸਲਈ ੪ ਵੱਖੋ ਵੱਖ ਈਮੇਲਾਂ ਬਣ ਜਾਣ ਗਿਆਂ । ਤੁਸੀਂ ਜਿੱਥੇ ਵੀ ਇਸ ਸੌਫਟਵੇਅਰ ਦਾ ਫੋਲਡਰ ਰੱਖਿਆ ਹੈ ਉਸ ਹਿਸਾਬ ਨਾਲ Email_Template ਅਤੇ Email_Attachment ਦਾ ਰਾਹ ਸਹੀ ਕਰੋ ਤਾਂ ਹੀ ਇਹ ਸੌਫਟਵੇਅਰ ਚੱਲੇਗਾ ਨਹੀਂ ਤਾਂ ਗਲਤੀ ਦਿਖਾਏਗਾ । 
+ਜਿਨਿਆ ਪੰਗਤਾਂ ਵਿੱਚ ਡਾਟਾ ਹੋਵੇਗਾ, ਓਨੀਆਂ ਹੀ ਵੱਖੋ ਵੱਖ ਈਮੇਲਾਂ ਬਣ ਸਕਦਿਆਂ ਹਨ । ਜਿਵੇਂ ਕੀ ਨਮੂਨਾ ਡਾਟਾਬੇਸ ਵਿੱਚ ੪ ਪੰਗਤਾਂ ਹਨ (੨ - ੫) ਇਸਲਈ ੪ ਵੱਖੋ ਵੱਖ ਈਮੇਲਾਂ ਬਣ ਜਾਣ ਗਿਆਂ । ਤੁਸੀਂ ਜਿੱਥੇ ਵੀ ਇਸ ਸੌਫਟਵੇਅਰ ਦਾ ਫੋਲਡਰ ਰੱਖਿਆ ਹੈ ਉਸ ਹਿਸਾਬ ਨਾਲ Email_Template ਅਤੇ Email_Attachment ਦੇ ਸਾਰੇ ਰਾਹ ਸਹੀ ਕਰੋ ਤਾਂ ਹੀ ਇਹ ਸੌਫਟਵੇਅਰ ਚੱਲੇਗਾ ਨਹੀਂ ਤਾਂ ਗਲਤੀ ਦਿਖਾਏਗਾ । ਮਿਸਾਲ ਵਜੋਂ ਮੇਰੇ ਕੰਪਿਊਟਰ ਤੇ ਨਮੂਨਾ ਐਕਸਲ ਡਾਟਾਬੇਸ ਵਿੱਚ F2 ਸੈੱਲ ਵਿੱਚ ਟੈੰਪਲੇਟ ਫੋਲਡਰ ਦਾ ਹੇਠਲਾ ਰਾਹ ਹੈ :-
 
-ਥੋਕ ਈਮੇਲ ਵਾਲੇ ਵੱਡੇ ਬਟਨ ਨੂੰ ਨੱਪੋ । ਥੋਕ ਈਮੇਲ ਡਾਇਲੋਗ ਬਾਕਸ ਖੁੱਲ ਜਾਏਗਾ । 
+**D:\Develop\GitHub\Bulk-Email\Templates\Template1.html**
+
+ਸਾਰਾ ਡਾਟਾ ਸਹੀ ਕਰ ਕੇ ਸ਼ੀਟ੧ ਚ ਜਾਓ ਅਤੇ ਥੋਕ ਈਮੇਲ ਵਾਲੇ ਵੱਡੇ ਬਟਨ ਨੂੰ ਨੱਪੋ । 
+
+![Bulk_Email_Button](/../master/Resources/Bulk_Email_Button.png?raw=true "Bulk_Email_Button")
+
+ਥੋਕ ਈਮੇਲ ਡਾਇਲੋਗ ਬਾਕਸ ਖੁੱਲ ਜਾਏਗਾ । 
+
+![Bulk_Email_Dialog_Box](/../master/Resources/Bulk_Email_Dialog_Box.png?raw=true "Bulk_Email_Dialog_Box")
