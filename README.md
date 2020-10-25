@@ -1,6 +1,10 @@
 # ਥੋਕ ਇਮੇਲ
 
-**ਥੋਕ ਈਮੇਲ** ਮਾਇਕ੍ਰੋਸੋਫਟ ਐਕਸਲ (Microsoft Excel) ਵੀਬੀਏ (VBA) ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ ਸੌਫਟਵੇਅਰ ਹੈ ਜਿਸ ਨਾਲ ਅਸੀਂ ਬਹੁਤ ਜਣਿਆ ਨੂੰ ਇੱਕੋ ਵਾਰੀ ਈਮੇਲ ਭੇਜ ਸਕਦੇ ਹਾਂ । ਇਸ ਵਾਸਤੇ ਮਾਇਕ੍ਰੋਸੋਫਟ ਔਫਿਸ ਆਉਟਲੂਕ (Microsoft Office Outlook) ਵੀ ਕੰਪਿਊਟਰ ਵਿੱਚ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ । ਆਉਟਲੂਕ ਤੇ ਜੀਮੇਲ (gmail) ਨੂੰ ਸੈਟ ਕਰਨ ਵਾਸਤੇ ਹੇਠਲੇ ਕਦਮ ਜਰੂਰੀ ਹਨ ।
+**ਥੋਕ ਈਮੇਲ** ਮਾਇਕ੍ਰੋਸੋਫਟ ਐਕਸਲ (Microsoft Excel) ਵੀਬੀਏ (VBA) ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ ਸੌਫਟਵੇਅਰ ਹੈ ਜਿਸ ਨਾਲ ਅਸੀਂ ਬਹੁਤ ਜਣਿਆ ਨੂੰ ਇੱਕੋ ਵਾਰੀ ਈਮੇਲ ਭੇਜ ਸਕਦੇ ਹਾਂ । ਇਸ ਵਾਸਤੇ ਮਾਇਕ੍ਰੋਸੋਫਟ ਔਫਿਸ ਆਉਟਲੂਕ (Microsoft Office Outlook) ਵੀ ਕੰਪਿਊਟਰ ਵਿੱਚ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ । ਇਸ ਸੌਫਟਵੇਅਰ ਨੂੰ  ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਤੁਸੀਂ ਇਸ ਵਰਕੇ ਵਿੱਚ ਉੱਪਰ **Code** ਬਟਨ ਨੂੰ ਨੱਪ ਕੇ **Download ZIP** ਚੁਣੋ । 
+
+![Code_Download_ZIP](/../master/Resources/Code_Download_ZIP.png?raw=true "Code_Download_ZIP")
+
+ਆਉਟਲੂਕ ਤੇ ਜੀਮੇਲ (gmail) ਨੂੰ ਸੈਟ ਕਰਨ ਵਾਸਤੇ ਹੇਠਲੇ ਕਦਮ ਜਰੂਰੀ ਹਨ ।
 
 - ਲੈਸ ਸਿਕਯੋਰ ਐਪਸ (Less Secure Apps) ਮਨਜੂਰੀ
 - ਆਉਟਲੂਕ ਸੈਟਅਪ
@@ -81,6 +85,8 @@ https://myaccount.google.com/lesssecureapps
 **Security Warning** Macros have been disabled ਦੇ ਨੇੜੇ **ਔਪਸ਼ਨਸ ਬਟਨ** ਨੂੰ ਨੱਪੋ, ਏਨੇਬਲ ਦਿਸ ਕੋਨਟੇਂਟ ਵਾਲੇ ਗੋਲੇ ਨੂੰ ਚੁਣੋ ਅਤੇ ਔਕੇ ਬਟਨ ਨੂੰ ਨੱਪੋ । 
 
 ਡੇਟਾਬੇਸ ਸ਼ੀਟ ਤੇ ਜਾਓ । ਇਸ ਵਿੱਚ ਤੁਹਾਨੂੰ Email_To, Email_CC, Email_BCC, Email_Subject, Email_Attachment, Email_Template, College_Addr ਅਤੇ Contact_Person ਨਾਮ ਦੇ ਕੋਲਮ ਮਿਲਣਗੇ । ਇਹਨਾਂ ਵਿੱਚੋਂ Email_To, Email_Subject ਅਤੇ Email_Template ਤਿੰਨੋਂ ਜਰੂਰੀ ਕੋਲਮ ਹਨ ਅਤੇ ਕਿਸੇ ਇੱਕ ਦੀ ਵੀ ਅਣਹੋਂਦ ਨਾਲ ਇਹ ਸੌਫਟਵੇਅਰ ਗਲਤੀ ਦਿਖਾਏਗਾ ।
+
+![Default_Database_Sheet](/../master/Resources/Default_Database_Sheet.png?raw=true "Default_Database_Sheet")
 
 ਜਿਨਿਆ ਪੰਗਤਾਂ ਵਿੱਚ ਡਾਟਾ ਹੋਵੇਗਾ, ਓਨੀਆਂ ਹੀ ਵੱਖੋ ਵੱਖ ਈਮੇਲਾਂ ਬਣ ਸਕਦਿਆਂ ਹਨ । ਜਿਵੇਂ ਕੀ ਨਮੂਨਾ ਡਾਟਾਬੇਸ ਵਿੱਚ ੪ ਪੰਗਤਾਂ ਹਨ (੨ - ੫) ਇਸਲਈ ੪ ਵੱਖੋ ਵੱਖ ਈਮੇਲਾਂ ਬਣ ਜਾਣ ਗਿਆਂ । ਤੁਸੀਂ ਜਿੱਥੇ ਵੀ ਇਸ ਸੌਫਟਵੇਅਰ ਦਾ ਫੋਲਡਰ ਰੱਖਿਆ ਹੈ ਉਸ ਹਿਸਾਬ ਨਾਲ Email_Template ਅਤੇ Email_Attachment ਦੇ ਸਾਰੇ ਰਾਹ ਸਹੀ ਕਰੋ ਤਾਂ ਹੀ ਇਹ ਸੌਫਟਵੇਅਰ ਚੱਲੇਗਾ ਨਹੀਂ ਤਾਂ ਗਲਤੀ ਦਿਖਾਏਗਾ । ਮਿਸਾਲ ਵਜੋਂ ਮੇਰੇ ਕੰਪਿਊਟਰ ਤੇ ਨਮੂਨਾ ਐਕਸਲ ਡਾਟਾਬੇਸ ਵਿੱਚ F2 ਸੈੱਲ ਵਿੱਚ ਟੈੰਪਲੇਟ ਫੋਲਡਰ ਦਾ ਹੇਠਲਾ ਰਾਹ ਹੈ :-
 
